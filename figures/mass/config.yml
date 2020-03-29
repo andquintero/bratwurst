@@ -9,8 +9,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - url: "/users/279354/articles/437781/master/file/figures/mass/mass.png"
-    path: figures/mass/mass.png
+  - path: figures/mass/enrichment_whole.png
     type: static
     from:
     - 1
@@ -19,3 +18,4 @@ grid:
     - 1
     - 1
     folder_url: "/users/279354/articles/437781/master/folder/figures/mass"
+    url: "/users/279354/articles/437781/master/file/figures/mass/enrichment_whole.png"
