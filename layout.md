@@ -3,6 +3,8 @@ sherr3oku28.html
 untitled.html
 9fe3.html
 hrr5rgc8ih8.html
+richMedia/ibbte5jpr6/block.yml
+phvtv4k974.html
 77os48keti8.html
 figures/mass
 figures/enrichment_some_overlap
